@@ -1,0 +1,9 @@
+a = {1: 'cord'}
+a_r={1: 'шнур'}
+a[1]=a_r[1]
+print("perevedite slovo cord")
+word = input()
+while word != a_r[1] :
+ print("neverno")
+if word == a_r[1]
+ print("ok")
